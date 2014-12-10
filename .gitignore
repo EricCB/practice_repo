@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Data
+*.csv
+*.pkl
+
+ 
+# Distribution / packaging
+
